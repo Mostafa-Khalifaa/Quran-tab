@@ -35,13 +35,13 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/quran-tab-landing-page.git
+   git clone https://github.com/Mostafa-Khalifaa/Quran-tab.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd quran-tab-landing-page
+   cd quran-tab
    ```
 
 3. Install the dependencies:
