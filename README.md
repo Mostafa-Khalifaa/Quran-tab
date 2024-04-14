@@ -12,7 +12,6 @@ This project is a simple landing page for a Quran tab application. It provides u
 ## Demo
 
 You can see a live demo of the Quran Tab Landing Page [here](https://github.com/Mostafa-Khalifaa/Quran-tab/assets/53229672/c49fde55-dde6-42f9-a87c-6796c6490935)
-).
 
 ## Features
 
@@ -58,6 +57,3 @@ To run this project locally, follow these steps:
    ```
 
    This will compile the CSS and JavaScript files, launch a development server, and open the Quran Tab Landing Page in your default web browser.
-
-5. You can now view the Quran Tab Landing Page by visiting [http://localhost:3000](http://localhost:3000) in your web browser.
-
